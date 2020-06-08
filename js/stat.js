@@ -77,3 +77,5 @@ window.renderStatistics = function (ctx, players, times) {
     ctx.fillText(scoreBar, BAR_X + GAP_SCORE + GAP * i, BAR_Y - GAP_SCORE);
   }
 };
+
+
